@@ -1,0 +1,13 @@
+category,category_description,risk_level
+searchengine,Search Engine,low
+news,News and Media,low
+checked,Verified/Whitelisted,low
+social-networking,Social Networking,medium
+shopping,Shopping and E-commerce,low
+ads,Advertising,medium
+malware,Malware and Malicious,critical
+phishing,Phishing,critical
+adult,Adult Content,high
+gambling,Gambling,high
+drugs,Drugs and Controlled Substances,high
+violence,Violence and Hate,high

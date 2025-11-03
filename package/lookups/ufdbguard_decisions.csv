@@ -1,0 +1,5 @@
+decision,action_category,description
+PASS,allowed,Request allowed by URL filter
+BLOCK,blocked,Request blocked by URL filter
+REDIRECT,blocked,Request redirected
+UNKNOWN,unknown,Unknown decision
